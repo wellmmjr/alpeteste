@@ -1,0 +1,5 @@
+org\example\data\dto\v1\model\UploadFileResponseDTO.class
+org\example\config\FileStorageConfig.class
+org\example\data\model\Fornecedor.class
+org\example\controller\FileController.class
+org\example\services\FileStorageService.class
